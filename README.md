@@ -14,3 +14,7 @@ Eventually your repository will get enough stuff in it that you will want to org
 
 ## Platformio
 [Building your own PlatformIO libraries](PlatformIOLibraries.md)
+
+## C++ Tips
+
+[C++ Tips](C++Tips.md)
