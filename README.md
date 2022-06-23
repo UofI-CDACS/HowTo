@@ -12,6 +12,9 @@ Eventually your repository will get enough stuff in it that you will want to org
 
 [Organize GitHub Repositories](https://andreicioara.com/how-i-organize-my-github-repositories-ce877db2e8b6)
 
+## .gitignore
+Please add tips for using git to [Git Tips](gitTips.md)
+
 ## Platformio
 [Building your own PlatformIO libraries](PlatformIOLibraries.md)
 
